@@ -1,2 +1,2 @@
 # Todo-App
-A Todo App/Webpage made using HTML and JS
+This repository contains a Frontend Activity named "Todo App". It can be used to add and delete tasks.
