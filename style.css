@@ -1,0 +1,42 @@
+body{
+    text-align: center;
+    justify-content: center;
+    margin:auto;
+    background-color: khaki;
+}
+h1{
+    font-family: 'Segoe UI';
+}
+.add{
+    background-color: crimson;
+    border: 2px solid silver;
+    border-radius: 4px;
+    margin: 8px;
+}
+.add:hover{
+    transform: scale(1.1);
+    background-color: red;
+}
+
+.delete{
+    background-color: grey;
+    color:white;
+    border: 2px solid black;
+    border-radius: 4px;
+    margin: 10px;
+}
+.delete:hover{
+    transform: scale(1.1);
+}
+
+ul {
+    list-style-position: inside; /* Makes sure the bullet is inside the list item */
+    padding: 0;
+    margin: 0;
+  }
+
+li {
+    margin-bottom: 5px; 
+    font-family: Georgia;
+    font-weight: 540;
+}
